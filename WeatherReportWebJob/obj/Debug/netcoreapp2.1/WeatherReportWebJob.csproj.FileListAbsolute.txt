@@ -9,3 +9,14 @@ D:\Nitin\f-drive data\Nitin\.NET Projects\WeatherReportWebJob\WeatherReportWebJo
 D:\Nitin\f-drive data\Nitin\.NET Projects\WeatherReportWebJob\WeatherReportWebJob\obj\Debug\netcoreapp2.1\WeatherReportWebJob.dll
 D:\Nitin\f-drive data\Nitin\.NET Projects\WeatherReportWebJob\WeatherReportWebJob\obj\Debug\netcoreapp2.1\WeatherReportWebJob.pdb
 D:\Nitin\f-drive data\Nitin\.NET Projects\WeatherReportWebJob\WeatherReportWebJob\obj\Debug\netcoreapp2.1\WeatherReportWebJob.csprojAssemblyReference.cache
+E:\WeatherReport\WeatherReportWebJob\bin\Debug\netcoreapp2.1\WeatherReportWebJob.deps.json
+E:\WeatherReport\WeatherReportWebJob\bin\Debug\netcoreapp2.1\WeatherReportWebJob.runtimeconfig.json
+E:\WeatherReport\WeatherReportWebJob\bin\Debug\netcoreapp2.1\WeatherReportWebJob.runtimeconfig.dev.json
+E:\WeatherReport\WeatherReportWebJob\bin\Debug\netcoreapp2.1\WeatherReportWebJob.dll
+E:\WeatherReport\WeatherReportWebJob\bin\Debug\netcoreapp2.1\WeatherReportWebJob.pdb
+E:\WeatherReport\WeatherReportWebJob\obj\Debug\netcoreapp2.1\WeatherReportWebJob.csprojAssemblyReference.cache
+E:\WeatherReport\WeatherReportWebJob\obj\Debug\netcoreapp2.1\WeatherReportWebJob.csproj.CoreCompileInputs.cache
+E:\WeatherReport\WeatherReportWebJob\obj\Debug\netcoreapp2.1\WeatherReportWebJob.AssemblyInfoInputs.cache
+E:\WeatherReport\WeatherReportWebJob\obj\Debug\netcoreapp2.1\WeatherReportWebJob.AssemblyInfo.cs
+E:\WeatherReport\WeatherReportWebJob\obj\Debug\netcoreapp2.1\WeatherReportWebJob.dll
+E:\WeatherReport\WeatherReportWebJob\obj\Debug\netcoreapp2.1\WeatherReportWebJob.pdb

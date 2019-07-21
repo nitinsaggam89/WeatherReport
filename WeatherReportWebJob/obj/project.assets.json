@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Nitin\\f-drive data\\WeatherReport\\WeatherReportWebJob\\WeatherReportWebJob.csproj",
+      "projectUniqueName": "E:\\WeatherReport\\WeatherReportWebJob\\WeatherReportWebJob.csproj",
       "projectName": "WeatherReportWebJob",
-      "projectPath": "D:\\Nitin\\f-drive data\\WeatherReport\\WeatherReportWebJob\\WeatherReportWebJob.csproj",
+      "projectPath": "E:\\WeatherReport\\WeatherReportWebJob\\WeatherReportWebJob.csproj",
       "packagesPath": "C:\\Users\\Lenovo pc\\.nuget\\packages\\",
-      "outputPath": "D:\\Nitin\\f-drive data\\WeatherReport\\WeatherReportWebJob\\obj\\",
+      "outputPath": "E:\\WeatherReport\\WeatherReportWebJob\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
