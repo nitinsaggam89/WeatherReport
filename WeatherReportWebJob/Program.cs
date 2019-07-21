@@ -12,8 +12,10 @@ namespace WeatherReportWebJob
             try
             {
                 Console.WriteLine("Weather reports creation started..");
+
                 List<City> values = new CsvExtractor().CsvObject();
                 storeCityWeatherReportInDirectory(values);
+
                 Console.WriteLine("Weather reports created successfully!!");
             }
             catch (Exception ex)

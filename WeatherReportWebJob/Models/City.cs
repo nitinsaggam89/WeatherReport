@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace WeatherReportWebJob.Models
+﻿namespace WeatherReportWebJob.Models
 {
     class City
     {
